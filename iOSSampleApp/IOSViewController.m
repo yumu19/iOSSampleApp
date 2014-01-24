@@ -18,6 +18,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"iOS Sample App"); // ← この行を追加
+    NSLog(@"iOS Sample App2"); // ← この行も追加
+    NSLog(@"iOS Sample App3"); // ← この行も追加
+
 }
 
 - (void)didReceiveMemoryWarning
