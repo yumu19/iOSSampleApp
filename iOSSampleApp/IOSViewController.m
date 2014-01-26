@@ -22,7 +22,8 @@
     NSLog(@"iOS Sample App"); // ← この行を追加
     NSLog(@"iOS Sample App2"); // ← この行も追加
     NSLog(@"iOS Sample App3"); // ← この行も追加
-
+    NSLog(@"iOS Sample App4"); // ← この行も追加
+    
 }
 
 - (void)didReceiveMemoryWarning
