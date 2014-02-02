@@ -406,6 +406,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iOSSampleApp/iOSSampleApp-Prefix.pch";
 				INFOPLIST_FILE = "iOSSampleApp/iOSSampleApp-Info.plist";
@@ -475,6 +476,7 @@
 				A08DB213188A93AF005539B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A08DB214188A93AF005539B9 /* Build configuration list for PBXNativeTarget "iOSSampleAppTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +485,7 @@
 				A08DB216188A93AF005539B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
