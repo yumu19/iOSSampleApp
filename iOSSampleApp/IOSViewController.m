@@ -23,6 +23,7 @@
     NSLog(@"iOS Sample App2"); // ← この行も追加
     NSLog(@"iOS Sample App3"); // ← この行も追加
     NSLog(@"iOS Sample App4"); // ← この行も追加
+    NSLog(@"iOS Sample App5"); // ← この行も追加
     
 }
 
